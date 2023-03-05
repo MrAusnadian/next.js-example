@@ -105,3 +105,17 @@ a {
     color-scheme: dark;
   }
 }
+
+.navbar-nav {
+  margin: 0 auto 1em auto;
+  font-size: 1.5em;
+  background-color: rgb(255, 255, 255);
+  padding: 1em;
+  text-align: center;
+  border: 1px solid rgb(221, 221, 221);
+  border-radius: 5px;
+}
+
+p {
+  margin: 1em 0;
+}
